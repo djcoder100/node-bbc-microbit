@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/sandeepmistry/node-bbc-microbit",
   "dependencies": {
+    "noble": "^1.9.1",
     "noble-device": "^1.4.0"
   },
   "devDependencies": {
